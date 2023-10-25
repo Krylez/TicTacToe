@@ -1,2 +1,2 @@
 # TicTacToe
-React Native TicTacToe game
+A simple React Native TicTacToe game simulating a multi-device game.
